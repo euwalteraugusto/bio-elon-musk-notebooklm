@@ -1,5 +1,15 @@
-Projeto: Elon Musk - A Mente e os Impérios de um Visionário
+# Elon Musk - A Mente e os Impérios de um Visionário
 
-Desenvolvi este projeto para a DIO utilizando o NotebookLM para sintetizar e estruturar uma análise profunda sobre Elon Musk. Explorei sua trajetória, desde a juventude na África do Sul até a liderança da SpaceX e Tesla, focando em seus métodos de gestão, como o "First Principles Thinking" e o algoritmo de design de 5 passos. O material oferece uma visão clara sobre como o conhecimento técnico e a visão de longo prazo podem transformar indústrias inteiras.
+Projeto desenvolvido para a DIO usando o NotebookLM, com objetivo de sintetizar e estruturar uma análise profunda sobre Elon Musk.
 
-https://notebooklm.google.com/notebook/f2fa0b47-79db-474b-b2d2-b77ac61a3093
+## Conteúdo
+- Trajetória de Elon Musk, da juventude na África do Sul até liderança da SpaceX e Tesla
+- Métodos de gestão e inovação: "First Principles Thinking" e algoritmo de design em 5 passos
+- Visão sobre como conhecimento técnico e planejamento de longo prazo transformam indústrias
+
+## Objetivo
+Demonstrar capacidade de análise, síntese de informações complexas e organização de conhecimento estratégico.
+
+## Acesso
+O material completo pode ser conferido no NotebookLM:  
+[NotebookLM - Elon Musk](https://notebooklm.google.com/notebook/f2fa0b47-79db-474b-b2d2-b77ac61a3093)
