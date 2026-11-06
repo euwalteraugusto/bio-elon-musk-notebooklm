@@ -1,0 +1,7 @@
+# ENV / SEGREDOS
+.env
+
+# EDITOR / OS
+.vscode/
+.DS_Store
+Thumbs.db
